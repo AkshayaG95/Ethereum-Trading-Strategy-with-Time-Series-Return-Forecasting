@@ -1,9 +1,9 @@
 # ETH Trading Strategy using Regime Detection + GARCH Modeling
 
 ## Overview
-This project builds a **regime-aware trading strategy for Ethereum (ETH)** by combining time series modeling, volatility estimation, and probabilistic regime detection.
+This project builds a regime-aware trading strategy for Ethereum (ETH) by combining time series modeling, volatility estimation, and probabilistic regime detection.
 
-The goal is to move beyond static forecasting and enable **adaptive decision-making based on market conditions**.
+The goal is to move beyond static forecasting and enable adaptive decision-making based on market conditions.
 
 ---
 
@@ -15,7 +15,7 @@ Cryptocurrency markets exhibit:
 
 Traditional models fail to adapt to these dynamics.
 
-This project answers:
+This project answers:    
 **Can we dynamically adjust trading decisions using regime-aware forecasting?**
 
 ---
@@ -48,11 +48,6 @@ This project answers:
   - Regime probabilities
   - Forecasted volatility
 
-- Generate:
-  - Expected 30-day returns
-  - Dynamic position sizing
-  - Risk-adjusted exposure
-
 ---
 
 ## Key Highlights
@@ -70,19 +65,10 @@ This project answers:
 
 ---
 
-## Tech Stack
-- Python  
-- pandas, numpy  
-- statsmodels (Markov Regression)  
-- arch (GARCH models)  
-- matplotlib / plotly  
-
----
-
 ## Repository Structure
-├── eth_trading_strategy_regime_model.ipynb
-├── ETH_Model_Building_Trading_Strategy.html
-├── README.md
+├── eth_trading_strategy_regime_model.ipynb  
+├── ETH_Model_Building_Trading_Strategy.html  
+├── README.md  
 
 ## Key Concepts Used
 - Time Series Analysis  
