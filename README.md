@@ -65,11 +65,6 @@ This project answers:
 
 ---
 
-## Repository Structure
-├── eth_trading_strategy_regime_model.ipynb  
-├── ETH_Model_Building_Trading_Strategy.html  
-├── README.md  
-
 ## Key Concepts Used
 - Time Series Analysis  
 - Regime Switching Models  
